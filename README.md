@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mohini
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I have sound knowledge of react, redux and saga
 - 📫 Reach me  via chauhanmohinii18@gmail.com
 
 <!---
